@@ -1,0 +1,663 @@
+[
+    {
+        "id": 1,
+        "name": "THE MONSTERS Big Into Energy Series-Vinyl Plush Pendant Blind Box",
+        "filepath": "bigIntoEnergy",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "bigIntoEnergy_box.jpg"
+            , "bigIntoEnergy_red.jpg"
+            , "bigIntoEnergy_orange.jpg"
+            , "bigIntoEnergy_pink.jpg"
+            , "bigIntoEnergy_green.jpg"
+            , "bigIntoEnergy_blue.jpg"
+            , "bigIntoEnergy_purple.jpg"
+            , "bigIntoEnergy_secret.jpg"
+            , "bigIntoEnergy_all.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "THE MONSTERS Wacky Mart Series Figures",
+        "filepath": "wackyMart",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "wackyMart_box.jpg"
+            , "wackyMart_sausage.jpg"
+            , "wackyMart_noodle.jpg"
+            , "wackyMart_milk.jpg"
+            , "wackyMart_chips.jpg"
+            , "wackyMart_corn.jpg"
+            , "wackyMart_shrimp.jpg"
+            , "wackyMart_sardine.jpg"
+            , "wackyMart_sandwich.jpg"
+            , "wackyMart_salad.jpg"
+            , "wackyMart_yakitori.jpg"
+            , "wackyMart_chowMein.jpg"
+            , "wackyMart_onigiri.jpg"
+            , "wackyMart_secret.jpg"
+            , "wackyMart_all.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "THE MONSTERS-CHEERS ! SERIES-Double-walled Glass Blind Box",
+        "filepath": "cheers",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "cheers_box.jpg"
+            , "cheers_green.jpg"
+            , "cheers_orange.jpg"
+            , "cheers_white.jpg"
+            , "cheers_purple.jpg"
+            , "cheers_pink.jpg"
+            , "cheers_black.jpg"
+            , "cheers_secret.jpg"
+            , "cheers_all.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+        "filepath": "haveASeat",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "haveASeat_box.jpg"
+            , "haveASeat_sisi.jpg"
+            , "haveASeat_hehe.jpg"
+            , "haveASeat_baba.jpg"
+            , "haveASeat_zizi.jpg"
+            , "haveASeat_ququ.jpg"
+            , "haveASeat_dada.jpg"
+            , "haveASeat_secret.jpg"
+            , "haveASeat_all.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
+        "filepath": "macaron",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "macaron_box.jpg"
+            , "macaron_1.jpg"
+            , "macaron_2.jpg"
+            , "macaron_3.jpg"
+            , "macaron_secret.jpg"
+            , "macaron_all.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "THE MONSTERS - Labubu Forest Fairy Vinyl Plush (Asia-exclusive)",
+        "filepath": "duck",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "duck_1.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Mickey Family Cute Together Keychain Series Figures",
+        "filepath": "mickeyFamily",
+        "quantity": 4,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "mickeyFamily_box.jpg"
+            , "mickeyFamily_mickey.jpg"
+            , "mickeyFamily_minnie.jpg"
+            , "mickeyFamily_pluto.jpg"
+            , "mickeyFamily_donald.jpg"
+            , "mickeyFamily_daisy.jpg"
+            , "mickeyFamily_goofy.jpg"
+            , "mickeyFamily_goofy.jpg"
+            , "mickeyFamily_chip.jpg"
+            , "mickeyFamily_dale.jpg"
+            , "mickeyFamily_secret.jpg"
+            , "mickeyFamily_all.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "THE MONSTERS COCA-COLA SERIES-Vinyl Face Blind Box",
+        "filepath": "cocacola",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "cocacola_box.jpg"
+            , "cocacola_bottle.jpg"
+            , "cocacola_can.jpg"
+            , "cocacola_secret.jpg"
+            , "cocacola_all.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "HACIPUPU Gummy Bear Series-Vinyl Plush Pendant Blind Box",
+        "filepath": "hacipupu",
+        "quantity": 3,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "hacipupu_box.jpg"
+            , "hacipupu_1.jpg"
+            , "hacipupu_2.jpg"
+            , "hacipupu_3.jpg"
+            , "hacipupu_secret.jpg"
+            , "hacipupu_all.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Finding MOKOKO Series Figures",
+        "filepath": "mokoko",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "mokoko_box.jpg"
+            , "mokoko_1.jpg"
+            , "mokoko_2.jpg"
+            , "mokoko_3.jpg"
+            , "mokoko_4.jpg"
+            , "mokoko_5.jpg"
+            , "mokoko_6.jpg"
+            , "mokoko_7.jpg"
+            , "mokoko_8.jpg"
+            , "mokoko_9.jpg"
+            , "mokoko_10.jpg"
+            , "mokoko_secret.jpg"
+            , "mokoko_all.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "THE MONSTERS x One Piece Series Figures",
+        "filepath": "onePiece",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "onePiece_box.jpg"
+            , "onePiece_1.jpg"
+            , "onePiece_2.jpg"
+            , "onePiece_3.jpg"
+            , "onePiece_4.jpg"
+            , "onePiece_5.jpg"
+            , "onePiece_6.jpg"
+            , "onePiece_7.jpg"
+            , "onePiece_8.jpg"
+            , "onePiece_9.jpg"
+            , "onePiece_10.jpg"
+            , "onePiece_11.jpg"
+            , "onePiece_12.jpg"
+            , "onePiece_secret.jpg"
+            , "onePiece_all.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "THE MONSTERS COCA-COLA Series Figure",
+        "filepath": "cocacolaFigure",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "cocacolaFigure_box.jpg"
+            , "cocacolaFigure_1.jpg"
+            , "cocacolaFigure_2.jpg"
+            , "cocacolaFigure_3.jpg"
+            , "cocacolaFigure_4.jpg"
+            , "cocacolaFigure_5.jpg"
+            , "cocacolaFigure_6.jpg"
+            , "cocacolaFigure_7.jpg"
+            , "cocacolaFigure_8.jpg"
+            , "cocacolaFigure_9.jpg"
+            , "cocacolaFigure_10.jpg"
+            , "cocacolaFigure_secret.jpg"
+            , "cocacolaFigure_all.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "SKULLPANDA L'impressionnisme Series Plush Doll",
+        "filepath": "skullPanda",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "skullPanda_box.jpg"
+            , "skullPanda_2.jpg"
+            , "skullPanda_3.jpg"
+            , "skullPanda_4.jpg"
+            , "skullPanda_5.jpg"
+            , "skullPanda_secret.jpg"
+            , "skullPanda_all.jpg"
+            , "skullPanda_box.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "THE MONSTERS Big Into Energy Series-Phone Charm Blind Box",
+        "filepath": "bigIntoEnergyKeychain",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "bigIntoEnergyKeychain_box.jpg"
+            , "bigIntoEnergyKeychain_1.jpg"
+            , "bigIntoEnergyKeychain_2.jpg"
+            , "bigIntoEnergyKeychain_all.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Care Bears Colorful Hugs Series",
+        "filepath": "careBear",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "careBear_box.jpg"
+            , "careBear_1.jpg"
+            , "careBear_2.jpg"
+            , "careBear_3.jpg"
+            , "careBear_4.jpg"
+            , "careBear_5.jpg"
+            , "careBear_secret.jpg"
+            , "careBear_all.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "PUCKY BEANIE BUBBLE UP SERIES-Plush Pendant Blind Box",
+        "filepath": "pucky",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "pucky_box.jpg"
+            , "pucky_1.jpg"
+            , "pucky_2.jpg"
+            , "pucky_3.jpg"
+            , "pucky_secret.jpg"
+            , "pucky_all.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Bikini Bottom Buddies - Whimsical Plush",
+        "filepath": "bikiniBottom",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "bikiniBottom_box.jpg"
+            , "bikiniBottom_1.jpg"
+            , "bikiniBottom_2.jpg"
+            , "bikiniBottom_3.jpg"
+            , "bikiniBottom_4.jpg"
+            , "bikiniBottom_secret.jpg"
+            , "bikiniBottom_all.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Disney x Miniso Stitch GenZ Street Panda Vinyl Plush Toy",
+        "filepath": "stitchPanda",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Miniso",
+        "images": [
+            "stitchPanda_1.jpg"
+            , "stitchPanda_2.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Disney x Miniso Stitch GenZ Street Pendant Blind Box",
+        "filepath": "stitchPandaGenZ",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Miniso",
+        "images": [
+            "stitchPandaGenZ_box.jpg"
+            , "stitchPandaGenZ_1.jpg"
+            , "stitchPandaGenZ_2.jpg"
+            , "stitchPandaGenZ_3.jpg"
+            , "stitchPandaGenZ_4.jpg"
+            , "stitchPandaGenZ_5.jpg"
+            , "stitchPandaGenZ_6.jpg"
+            , "stitchPandaGenZ_secret.jpg"
+            , "stitchPandaGenZ_all.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Disney x Miniso Mickey 'Head In The Clouds' Series Plush Keychain Blind Box",
+        "filepath": "mickey",
+        "quantity": 4,
+        "price": 50,
+        "brand": "Miniso",
+        "images": [
+            "mickey_box.jpg"
+            , "mickey_1.jpg"
+            , "mickey_2.jpg"
+            , "mickey_3.jpg"
+            , "mickey_4.jpg"
+            , "mickey_5.jpg"
+            , "mickey_6.jpg"
+            , "mickey_secret.jpg"
+            , "mickey_all.jpg"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Disney x Miniso Mickey 'Fun Crash' Series Keychain Blind Box Pendant",
+        "filepath": "mickeyCrash",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Miniso",
+        "images": [
+            "mickeyCrash_box.jpg"
+            , "mickeyCrash_1.jpg"
+            , "mickeyCrash_2.jpg"
+            , "mickeyCrash_3.jpg"
+            , "mickeyCrash_4.jpg"
+            , "mickeyCrash_5.jpg"
+            , "mickeyCrash_6.jpg"
+            , "mickeyCrash_7.jpg"
+            , "mickeyCrash_8.jpg"
+            , "mickeyCrash_all.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Baby Three 'Sunny Doll' Plush Series Blind Box",
+        "filepath": "sunnyDoll",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Baby Three",
+        "images": [
+            "sunnyDoll_box.jpg"
+            , "sunnyDoll_1.jpg"
+            , "sunnyDoll_2.jpg"
+            , "sunnyDoll_3.jpg"
+            , "sunnyDoll_4.jpg"
+            , "sunnyDoll_5.jpg"
+            , "sunnyDoll_6.jpg"
+            , "sunnyDoll_7.jpg"
+            , "sunnyDoll_8.jpg"
+            , "sunnyDoll_all.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Baby Three 'Lucky Bag' Plush Series Blind Box",
+        "filepath": "goodLuckBag",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Baby Three",
+        "images": [
+            "goodLuckBag_box.jpg"
+            , "goodLuckBag_1.jpg"
+            , "goodLuckBag_2.jpg"
+            , "goodLuckBag_3.jpg"
+            , "goodLuckBag_4.jpg"
+            , "goodLuckBag_5.jpg"
+            , "goodLuckBag_all.jpg"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Baby Three 'Romantic Ocean' Plush Series Blind Box",
+        "filepath": "ocean",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Baby Three",
+        "images": [
+            "ocean_box.jpg"
+            , "ocean_1.jpg"
+            , "ocean_2.jpg"
+            , "ocean_3.jpg"
+            , "ocean_4.jpg"
+            , "ocean_all.jpg"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Baby Three 'Havoc In Heaven' Plush Series Blind Box",
+        "filepath": "havoc",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Baby Three",
+        "images": [
+            "havoc_box.jpg"
+            , "havoc_1.jpg"
+            , "havoc_2.jpg"
+            , "havoc_3.jpg"
+            , "havoc_4.jpg"
+            , "havoc_all.jpg"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Baby Three 'Professional Dreamer' Plush Series Blind Box",
+        "filepath": "dreamer",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Baby Three",
+        "images": [
+            "dreamer_box.jpg"
+            , "dreamer_1.jpg"
+            , "dreamer_2.jpg"
+            , "dreamer_3.jpg"
+            , "dreamer_4.jpg"
+            , "dreamer_5.jpg"
+            , "dreamer_6.jpg"
+            , "dreamer_all.jpg"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Baby Three 'Where's Spring Flower' Plush Series Blind Box",
+        "filepath": "flower",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Baby Three",
+        "images": [
+            "flower_box.jpg"
+            , "flower_1.jpg"
+            , "flower_2.jpg"
+            , "flower_3.jpg"
+            , "flower_4.jpg"
+            , "flower_5.jpg"
+            , "flower_6.jpg"
+            , "flower_7.jpg"
+            , "flower_all.jpg"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Baby Three Jewelry Box Series Blind Box",
+        "filepath": "jewelry",
+        "quantity": 1,
+        "price": 50,
+        "brand": "Baby Three",
+        "images": [
+            "jewelry_box.jpg"
+            , "jewelry_1.jpg"
+            , "jewelry_2.jpg"
+            , "jewelry_3.jpg"
+            , "jewelry_4.jpg"
+            , "jewelry_5.jpg"
+            , "jewelry_6.jpg"
+            , "jewelry_7.jpg"
+            , "jewelry_8.jpg"
+            , "jewelry_9.jpg"
+            , "jewelry_all.jpg"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Baby Three 'De Lovely' Plush Series Blind Box",
+        "filepath": "lovely",
+        "quantity": 2,
+        "price": 50,
+        "brand": "Baby Three",
+        "images": [
+            "lovely_box.jpg"
+            , "lovely_1.jpg"
+            , "lovely_2.jpg"
+            , "lovely_3.jpg"
+            , "lovely_4.jpg"
+            , "lovely_5.jpg"
+            , "lovely_6.jpg"
+            , "lovely_all.jpg"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Liila's Garden Tea Party [MINI] Plush Series Blind Box",
+        "filepath": "tea",
+        "quantity": 1,
+        "price": 50,
+        "brand": "random",
+        "images": [
+            "tea_box.jpg"
+            , "tea_1.jpg"
+            , "tea_2.jpg"
+            , "tea_3.jpg"
+            , "tea_all.jpg"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Samael Magic Wardrobe Series Plush Dolls Blind Box",
+        "filepath": "magic",
+        "quantity": 1,
+        "price": 50,
+        "brand": "random",
+        "images": [
+            "magic_box.jpg"
+            , "magic_1.jpg"
+            , "magic_2.jpg"
+            , "magic_3.jpg"
+            , "magic_4.jpg"
+            , "magic_5.jpg"
+            , "magic_6.jpg"
+            , "magic_7.jpg"
+            , "magic_all.jpg"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Baby Three 400% V2 Plush Series Blind Box",
+        "filepath": "bigBaby",
+        "quantity": 1,
+        "price": 50,
+        "brand": "random",
+        "images": [
+            "bigBaby_box.jpg"
+            , "bigBaby_1.jpg"
+            , "bigBaby_2.jpg"
+            , "bigBaby_3.jpg"
+            , "bigBaby_4.jpg"
+            , "bigBaby_6.jpg"
+            , "bigBaby_7.jpg"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Disney x Miniso Stitch 'Eat Something Before Sleep' Series Vinyl Figure Blind Box",
+        "filepath": "stitchSleep",
+        "quantity": 1,
+        "price": 50,
+        "brand": "random",
+        "images": [
+            "stitchSleep_box.jpg"
+            , "stitchSleep_1.jpg"
+            , "stitchSleep_2.jpg"
+            , "stitchSleep_3.jpg"
+            , "stitchSleep_4.jpg"
+            , "stitchSleep_5.jpg"
+            , "stitchSleep_all.jpg"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Naruto Beast Party Plush Keychain Blind Box",
+        "filepath": "naruto",
+        "quantity": 3,
+        "price": 50,
+        "brand": "TopToy",
+        "images": [
+            "naruto_box.jpg"
+            , "naruto_1.jpg"
+            , "naruto_2.jpg"
+            , "naruto_3.jpg"
+            , "naruto_4.jpg"
+            , "naruto_5.jpg"
+            , "naruto_6.jpg"
+            , "naruto_all.jpg"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box",
+        "filepath": "labubuLetter",
+        "description": "[A, B, B, D, G, G, I, L, S]",
+        "quantity": 9,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "labubuLetter_box1.jpg"
+            , "labubuLetter_box2.jpg"
+            , "labubuLetter_1.jpg"
+            , "labubuLetter_2.jpg"
+            , "labubuLetter_all1.jpg"
+            , "labubuLetter_all2.jpg"
+            , "labubuLetter_all3.jpg"
+            , "labubuLetter_all4.jpg"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "THE MONSTERS Pin for Love Series-Letter Pendant Blind Box",
+        "filepath": "labubuPendant",
+        "description": "[H, M, ?]",
+        "quantity": 3,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "labubuPendant_box1.jpg"
+            , "labubuPendant_box2.jpg"
+            , "labubuPendant_1.jpg"
+            , "labubuPendant_2.jpg"
+            , "labubuPendant_secret1.jpg"
+            , "labubuPendant_secret2.jpg"
+            , "labubuPendant_all1.jpg"
+            , "labubuPendant_all2.jpg"
+            , "labubuPendant_all3.jpg"
+            , "labubuPendant_all4.jpg"
+        ]
+    }
+
+
+    
+    
+]

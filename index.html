@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treats & Treasures</title>
+    <link href='https://fonts.googleapis.com/css?family=Roboto Condensed' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div class="topContainer"><img src="images/header.png"></div>
+    <div class="header" id="stickyHeader">
+        <span id="lastUpdated">Last updated: …</span>
+        <button id="backToTop">Back to top</button>
+    </div>
+    <div class="content">
+        <div id="productContainer" class="row"></div>
+    </div>
+
+    <!-- Pop up modal -->
+    <div class="modalBackDrop" id="modal" aria-hidden="true" role="dialog" aria-modal="true">
+        <div class="modal">
+            <div class="modalHeader">
+                <div class="modalTitle" id="modalTitle">Item</div>
+                <button class="modalClose" id="modalClose" aria-label="Close">x</button>
+            </div>
+            <div class="modalBody">
+                <button class="navBtn navPrev" id="prevBtn" aria-label="Previous"><</button>
+                <div class="lightBox"><img id="modalImg" alt=""></div>
+                <button class="navBtn navNext" id="nextBtn" aria-label="Next">></button>
+            </div>
+            <div class="modalThumbs" id="modalThumbs"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

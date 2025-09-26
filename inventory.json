@@ -3,7 +3,8 @@
         "id": 1,
         "name": "THE MONSTERS Big Into Energy Series-Vinyl Plush Pendant Blind Box",
         "filepath": "bigIntoEnergy",
-        "quantity": 2,
+        "quantity": 4,
+        "description": "Proceeds from 2 of 4 are going to the American Lung Association",
         "price": 50,
         "brand": "Pop Mart",
         "images": [
@@ -589,7 +590,8 @@
         "price": 50,
         "brand": "random",
         "images": [
-            "stitchSleep_box.jpg"
+            "stitchSleep_box_sold.jpg"
+            , "stitchSleep_box.jpg"
             , "stitchSleep_1.jpg"
             , "stitchSleep_2.jpg"
             , "stitchSleep_3.jpg"
@@ -620,7 +622,7 @@
         "id": 35,
         "name": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box",
         "filepath": "labubuLetter",
-        "description": "Available: [A, B, B, D, G, G, I, S] Sold: [L]",
+        "description": "Available: [A, B, B, D, G, G, I] Sold: [L, S]",
         "quantity": 9,
         "price": 50,
         "brand": "Pop Mart",

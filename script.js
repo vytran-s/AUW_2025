@@ -8,14 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(data => renderProducts(data))
         .catch(err => console.error('Error fetching data:', err));
 
-    // Insert last updated text
-    const updatedEl = document.getElementById("lastUpdated");
-    const lastUpdated = new Date(document.lastModified); 
-    updatedEl.textContent =
-        String(lastUpdated.getMonth() + 1).padStart(2, "0") + "/" +
-        String(lastUpdated.getDate()).padStart(2, "0") + "/" +
-        lastUpdated.getFullYear();
-
     // Back to top
     const backBtn = document.getElementById("backToTop");
     backBtn.addEventListener("click", () => {
@@ -31,9 +23,11 @@ function renderProducts(products) {
   container.classList.add('row');
 
   products.forEach((product, idx) => {
+    /*
     // Create a column
     const col = document.createElement('div');
     col.className = 'column';
+    */
 
     // Create a card
     const card = document.createElement('div');
@@ -70,8 +64,8 @@ function renderProducts(products) {
     meta.className = 'productMeta';
     if (product.description && product.description.trim() !== "") {
         const desc = document.createElement('p');
-        desc.className = 'product-description';
-        desc.innerHTML = `<strong>Description:</strong> ${product.description}`;
+        desc.className = 'productDescription';
+        desc.innerHTML = `${product.description}`;
         meta.appendChild(desc);
       }
       
@@ -110,8 +104,9 @@ function renderProducts(products) {
     card.appendChild(media);
     card.appendChild(thumbs);
     card.appendChild(body);
-    col.appendChild(card);
-    container.appendChild(col);
+    container.appendChild(card);
+    //col.appendChild(card);
+    //container.appendChild(col);
   });
 }
 

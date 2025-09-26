@@ -1,6 +1,3 @@
-//---------- STICKY HEADER ----------
-window.onscroll = function() {myFunction()};
-
 // ---------- CONFIG ----------
 const imageBasePath = "images/"; // Establish base path for image
 

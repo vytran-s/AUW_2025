@@ -12,26 +12,28 @@
     <div class="topContainer"><img src="images/header.png"></div>
     <div class="header" id="stickyHeader">
         <span id="lastUpdated">Last updated: …</span>
-        <button id="backToTop">Back to top</button>
+
+        <nav class="navTabs">
+            <a href="index.html" class="tab" data-match="index.html">TREATS</a>
+            <a href="treasures.html" class="tab" data-match="treasures.html">TREASURES</a>
+        </nav>
+
+        <button id="backToTop" aria-label="Back to top">Back to top ↑</button>
     </div>
     <div class="content">
-        <div id="productContainer" class="row"></div>
-    </div>
-
-    <!-- Pop up modal -->
-    <div class="modalBackDrop" id="modal" aria-hidden="true" role="dialog" aria-modal="true">
-        <div class="modal">
-            <div class="modalHeader">
-                <div class="modalTitle" id="modalTitle">Item</div>
-                <button class="modalClose" id="modalClose" aria-label="Close">x</button>
-            </div>
-            <div class="modalBody">
-                <button class="navBtn navPrev" id="prevBtn" aria-label="Previous"><</button>
-                <div class="lightBox"><img id="modalImg" alt=""></div>
-                <button class="navBtn navNext" id="nextBtn" aria-label="Next">></button>
-            </div>
-            <div class="modalThumbs" id="modalThumbs"></div>
-        </div>
+        <h2> Order Form: <a href="https://forms.office.com/r/Rz30JaN2Jr" target="_blank" rel="noopener" id="treatsLink">Auto Retail Treats Pre-Order</a></h2>
+        <div class="pdf-wrap">
+            <iframe
+              class="pdf-frame"
+              src="images/Treats.pdf#view=FitH"
+              title="Treats & Treasures Menu"
+            ></iframe>
+          
+            <!-- Always offer a download/open link for mobile browsers that block inline PDFs -->
+            <p class="pdf-fallback">
+              Can’t see the menu? <a href="images/Treats.pdf" target="_blank" rel="noopener" id="treatsLink">Open the PDF</a>
+            </p>
+          </div>
     </div>
     <script src="script.js"></script>
 </body>

@@ -620,7 +620,7 @@
         "id": 35,
         "name": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box",
         "filepath": "labubuLetter",
-        "description": "[A, B, B, D, G, G, I, L, S]",
+        "description": "Available: [A, B, B, D, G, G, I, S] Sold: [L]",
         "quantity": 9,
         "price": 50,
         "brand": "Pop Mart",
@@ -654,6 +654,25 @@
             , "labubuPendant_all2.jpg"
             , "labubuPendant_all3.jpg"
             , "labubuPendant_all4.jpg"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box",
+        "filepath": "labubuLetter",
+        "description": "Available: [C, F, S] (Proceeds go to Child and Family Services)",
+        "quantity": 9,
+        "price": 50,
+        "brand": "Pop Mart",
+        "images": [
+            "labubuLetter_box1.jpg"
+            , "labubuLetter_box2.jpg"
+            , "labubuLetter_1.jpg"
+            , "labubuLetter_2.jpg"
+            , "labubuLetter_all1.jpg"
+            , "labubuLetter_all2.jpg"
+            , "labubuLetter_all3.jpg"
+            , "labubuLetter_all4.jpg"
         ]
     }
 

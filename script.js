@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Insert last updated text
     const updatedEl = document.getElementById("lastUpdated");
     const lastUpdated = new Date(document.lastModified); 
-    updatedEl.textContent = "Last Updated: " +
+    updatedEl.textContent =
         String(lastUpdated.getMonth() + 1).padStart(2, "0") + "/" +
         String(lastUpdated.getDate()).padStart(2, "0") + "/" +
         lastUpdated.getFullYear();

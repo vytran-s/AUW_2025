@@ -42,34 +42,36 @@ body {
     color: #0c2a70;
     box-shadow: 0 2px 4px rgba(0,0,0,.1);
 
-    display: flex;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
     align-items: center;
+    font-size: 0.75rem;
     font-size: 20px;
 }
 
 #lastUpdated {
     white-space: nowrap;
-    float: left;
-    width: 10%;
+    margin: 0;
 }
 
 .navTabs {
-    position: absolute;
-    left: 40%;
+    justify-self: center;
     display: flex;
     gap: .5rem;
+    min-width: 0;
     white-space: nowrap;
-    width: 20%;
-    align-items: center;
+    overflow-x: auto;
+    scrollbar-width: thin;
 }
+
+.navTabs::-webkit-scrollbar { height: 6px; }
+.navTabs::-webkit-scrollbar-thumb { background: rgba(0,0,0,.2); border-radius: 999px; }
 
 .tab {
     display: inline-block;
     padding: .4rem .75rem;
     text-decoration: none;
     color: #0c2a70;
-    text-align: center;
-    margin: auto;
 }
 
 .tab:hover {
@@ -78,9 +80,6 @@ body {
     color: white;
 }
 #backToTop {
-    white-space: nowrap;
-    width: 10%;
-    margin-left: 80%;
     background: transparent;
     border: none;
     cursor: pointer;
@@ -88,6 +87,7 @@ body {
     float: left;
     font-family: 'Roboto Condensed';
     font-size: 20px;
+    white-space: no-wrap;
 }
 
 #backToTop:hover {
@@ -100,8 +100,8 @@ body {
 
 /* Responsive height: uses most of the viewport but not too tall */
 .pdf-frame {
-    width: 100%;
-    height: min(95vh, 1300px); /* adjust to taste */
+    width: 90%;
+    height: min(90vh, 1300px); /* adjust to taste */
     border: 1px solid #e5e7eb;
     box-shadow: 0 2px 4px rgba(0,0,0,.1);
 }
@@ -123,7 +123,7 @@ body {
 }
 
 .contentBoxes {
-    width: 100%;
+    width: 95%;
     height: auto;
     padding: 1rem;
     border-radius: 10px;

@@ -3,7 +3,7 @@
         "id": 1,
         "name": "THE MONSTERS Big Into Energy Series-Vinyl Plush Pendant Blind Box",
         "filepath": "bigIntoEnergy",
-        "quantity": 4,
+        "quantity": 3,
         "description": "Proceeds from 2 of 4 are going to the American Lung Association",
         "price": 50,
         "brand": "Pop Mart",
@@ -86,11 +86,11 @@
         "id": 5,
         "name": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
         "filepath": "macaron",
-        "quantity": 1,
+        "quantity": 0,
         "price": 50,
         "brand": "Pop Mart",
         "images": [
-            "macaron_box.jpg"
+            "macaron_box_sold.png"
             , "macaron_1.jpg"
             , "macaron_2.jpg"
             , "macaron_3.jpg"
@@ -150,7 +150,7 @@
         "id": 9,
         "name": "HACIPUPU Gummy Bear Series-Vinyl Plush Pendant Blind Box",
         "filepath": "hacipupu",
-        "quantity": 3,
+        "quantity": 2,
         "price": 50,
         "brand": "Pop Mart",
         "images": [

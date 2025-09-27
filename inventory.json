@@ -241,7 +241,7 @@
         "price": 50,
         "brand": "Pop Mart",
         "images": [
-            "skullPanda_box.jpg"
+            "skullPanda_box_sold.png"
             , "skullPanda_2.jpg"
             , "skullPanda_3.jpg"
             , "skullPanda_4.jpg"
@@ -324,7 +324,7 @@
         "price": 50,
         "brand": "Miniso",
         "images": [
-            "stitchPanda_1.jpg"
+            "stitchPanda_1_sold.png"
             , "stitchPanda_2.jpg"
         ]
     },
@@ -621,7 +621,7 @@
         "id": 35,
         "name": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box",
         "filepath": "labubuLetter",
-        "description": "Available: [A, B, B, D, G, G, I] Sold: [L, S]",
+        "description": "Available: [A, B, B, G, G, I] Sold: [L, S, D]",
         "quantity": 9,
         "price": 50,
         "brand": "Pop Mart",

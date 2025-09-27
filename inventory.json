@@ -241,7 +241,7 @@
         "price": 50,
         "brand": "Pop Mart",
         "images": [
-            "skullPanda_box_sold.png"
+            "skullPanda_box.jpg"
             , "skullPanda_2.jpg"
             , "skullPanda_3.jpg"
             , "skullPanda_4.jpg"
@@ -586,7 +586,7 @@
         "id": 33,
         "name": "Disney x Miniso Stitch 'Eat Something Before Sleep' Series Vinyl Figure Blind Box",
         "filepath": "stitchSleep",
-        "quantity": 1,
+        "quantity": 0,
         "price": 50,
         "brand": "random",
         "images": [
@@ -622,7 +622,7 @@
         "name": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box",
         "filepath": "labubuLetter",
         "description": "Available: [A, B, B, G, G, I] Sold: [L, S, D]",
-        "quantity": 9,
+        "quantity": 6,
         "price": 50,
         "brand": "Pop Mart",
         "images": [
@@ -662,7 +662,7 @@
         "name": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box",
         "filepath": "labubuLetter",
         "description": "Available: [C, F, S] (Proceeds go to Child and Family Services)",
-        "quantity": 9,
+        "quantity": 3,
         "price": 50,
         "brand": "Pop Mart",
         "images": [

@@ -1,11 +1,30 @@
 // ---------- CONFIG ----------
 const imageBasePath = "images/"; // Establish base path for image
 
+let all_products = [];
+let currentFilter = 'all';
+
+function getStockStatus(product) {
+    const q = Number(product.quantity) || 0;
+    const s = Number(product.sold) || 0;
+    return (q - s) > 0 ? 'in' : 'out';
+}
+
+function filterProducts(products, filter) {
+    if (filter === 'in') return products.filter(p => getStockStatus(p) === 'in');
+    if (filter === 'out') return products.filter(p => getStockStatus(p) === 'out');
+    return products;
+}
+
 // ---------- RENDER PRODUCTS ----------
 document.addEventListener('DOMContentLoaded', () => {
     fetch('inventory.json')
         .then(res => res.json())
-        .then(data => renderProducts(data))
+        .then(data => {
+            all_products = data;
+            renderProducts(filterProducts(all_products, currentFilter));
+            setupFilterBar();
+        })
         .catch(err => console.error('Error fetching data:', err));
 
     // Back to top
@@ -14,6 +33,23 @@ document.addEventListener('DOMContentLoaded', () => {
         window.scrollTo({ top: 0, behavior: "smooth" });
     });
 });
+
+function setupFilterBar() {
+    const bar = document.querySelector('.filterBar');
+    if (!bar) return;
+
+    bar.addEventListener('click', (e) => {
+        const btn = e.target.closest('.filterBtn');
+        if (!btn) return;
+
+        bar.querySelectorAll('.filterBtn').forEach(b => b.classList.remove('is-active'));
+        btn.classList.add('is-active');
+
+        currentFilter = btn.dataset.filter;
+        const filtered = filterProducts(all_products, currentFilter);
+        renderProducts(filtered);
+    });
+}
 
 function renderProducts(products) {
   const container = document.getElementById('productContainer');
@@ -74,8 +110,12 @@ function renderProducts(products) {
       meta.appendChild(qty);
       
       const price = document.createElement('p');
-      price.innerHTML = `<strong>Price:</strong> $${product.price}`;
-      //meta.appendChild(price);
+      if(isNaN(product.price)) {
+        price.innerHTML = "For pricing, please contact Stefani or Vy"
+      } else {
+        price.innerHTML = `<strong>Price:</strong> $${product.price}.00`;
+      }
+      meta.appendChild(price);
 
     const thumbs = document.createElement('div');
     thumbs.className = 'thumbs';

@@ -4,8 +4,9 @@
         "name": "THE MONSTERS Big Into Energy Series-Vinyl Plush Pendant Blind Box",
         "filepath": "bigIntoEnergy",
         "quantity": 3,
+        "sold": 1,
         "description": "Proceeds from 2 of 4 are going to the American Lung Association",
-        "price": 50,
+        "price": 55,
         "brand": "Pop Mart",
         "images": [
             "bigIntoEnergy_box.jpg"
@@ -24,7 +25,8 @@
         "name": "THE MONSTERS Wacky Mart Series Figures",
         "filepath": "wackyMart",
         "quantity": 2,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "wackyMart_box.jpg"
@@ -49,7 +51,8 @@
         "name": "THE MONSTERS-CHEERS ! SERIES-Double-walled Glass Blind Box",
         "filepath": "cheers",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "cheers_box.jpg"
@@ -68,7 +71,8 @@
         "name": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
         "filepath": "haveASeat",
         "quantity": 2,
-        "price": 50,
+        "sold": 0,
+        "price": 55,
         "brand": "Pop Mart",
         "images": [
             "haveASeat_box.jpg"
@@ -87,7 +91,8 @@
         "name": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
         "filepath": "macaron",
         "quantity": 0,
-        "price": 50,
+        "sold": 1,
+        "price": 55,
         "brand": "Pop Mart",
         "images": [
             "macaron_box_sold.png"
@@ -103,7 +108,8 @@
         "name": "THE MONSTERS - Labubu Forest Fairy Vinyl Plush (Asia-exclusive)",
         "filepath": "duck",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "duck_1.jpg"
@@ -114,7 +120,8 @@
         "name": "Mickey Family Cute Together Keychain Series Figures",
         "filepath": "mickeyFamily",
         "quantity": 3,
-        "price": 50,
+        "sold": 1,
+        "price": 35,
         "brand": "Pop Mart",
         "images": [
             "mickeyFamily_box.jpg"
@@ -136,7 +143,8 @@
         "name": "THE MONSTERS COCA-COLA SERIES-Vinyl Face Blind Box",
         "filepath": "cocacola",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "cocacola_box.jpg"
@@ -151,7 +159,8 @@
         "name": "HACIPUPU Gummy Bear Series-Vinyl Plush Pendant Blind Box",
         "filepath": "hacipupu",
         "quantity": 2,
-        "price": 50,
+        "sold": 1,
+        "price": 45,
         "brand": "Pop Mart",
         "images": [
             "hacipupu_box.jpg"
@@ -167,7 +176,8 @@
         "name": "Finding MOKOKO Series Figures",
         "filepath": "mokoko",
         "quantity": 2,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "mokoko_box.jpg"
@@ -190,7 +200,8 @@
         "name": "THE MONSTERS x One Piece Series Figures",
         "filepath": "onePiece",
         "quantity": 2,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "onePiece_box.jpg"
@@ -215,7 +226,8 @@
         "name": "THE MONSTERS COCA-COLA Series Figure",
         "filepath": "cocacolaFigure",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "cocacolaFigure_box.jpg"
@@ -237,8 +249,9 @@
         "id": 13,
         "name": "SKULLPANDA L'impressionnisme Series Plush Doll",
         "filepath": "skullPanda",
-        "quantity": 1,
-        "price": 50,
+        "quantity": 0,
+        "sold": 1,
+        "price": 55,
         "brand": "Pop Mart",
         "images": [
             "skullPanda_box_sold.png"
@@ -256,7 +269,8 @@
         "name": "THE MONSTERS Big Into Energy Series-Phone Charm Blind Box",
         "filepath": "bigIntoEnergyKeychain",
         "quantity": 2,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "bigIntoEnergyKeychain_box.jpg"
@@ -270,7 +284,8 @@
         "name": "Care Bears Colorful Hugs Series",
         "filepath": "careBear",
         "quantity": 0,
-        "price": 50,
+        "sold": 1,
+        "price": 35,
         "brand": "Pop Mart",
         "images": [
             "careBear_box_sold.png"
@@ -288,7 +303,8 @@
         "name": "PUCKY BEANIE BUBBLE UP SERIES-Plush Pendant Blind Box",
         "filepath": "pucky",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "pucky_box.jpg"
@@ -304,7 +320,8 @@
         "name": "Bikini Bottom Buddies - Whimsical Plush",
         "filepath": "bikiniBottom",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "bikiniBottom_box.jpg"
@@ -320,7 +337,8 @@
         "id": 18,
         "name": "Disney x Miniso Stitch GenZ Street Panda Vinyl Plush Toy",
         "filepath": "stitchPanda",
-        "quantity": 1,
+        "quantity": 0,
+        "sold": 1,
         "price": 50,
         "brand": "Miniso",
         "images": [
@@ -333,7 +351,8 @@
         "name": "Disney x Miniso Stitch GenZ Street Pendant Blind Box",
         "filepath": "stitchPandaGenZ",
         "quantity": 2,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Miniso",
         "images": [
             "stitchPandaGenZ_box.jpg"
@@ -352,7 +371,8 @@
         "name": "Disney x Miniso Mickey 'Head In The Clouds' Series Plush Keychain Blind Box",
         "filepath": "mickey",
         "quantity": 4,
-        "price": 50,
+        "sold": 0,
+        "price": 40,
         "brand": "Miniso",
         "images": [
             "mickey_box.jpg"
@@ -371,7 +391,8 @@
         "name": "Disney x Miniso Mickey 'Fun Crash' Series Keychain Blind Box Pendant",
         "filepath": "mickeyCrash",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Miniso",
         "images": [
             "mickeyCrash_box.jpg"
@@ -391,7 +412,8 @@
         "name": "Baby Three 'Sunny Doll' Plush Series Blind Box",
         "filepath": "sunnyDoll",
         "quantity": 2,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Baby Three",
         "images": [
             "sunnyDoll_box.jpg"
@@ -411,7 +433,8 @@
         "name": "Baby Three 'Lucky Bag' Plush Series Blind Box",
         "filepath": "goodLuckBag",
         "quantity": 2,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Baby Three",
         "images": [
             "goodLuckBag_box.jpg"
@@ -428,7 +451,8 @@
         "name": "Baby Three 'Romantic Ocean' Plush Series Blind Box",
         "filepath": "ocean",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Baby Three",
         "images": [
             "ocean_box.jpg"
@@ -444,7 +468,8 @@
         "name": "Baby Three 'Havoc In Heaven' Plush Series Blind Box",
         "filepath": "havoc",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Baby Three",
         "images": [
             "havoc_box.jpg"
@@ -460,7 +485,8 @@
         "name": "Baby Three 'Professional Dreamer' Plush Series Blind Box",
         "filepath": "dreamer",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Baby Three",
         "images": [
             "dreamer_box.jpg"
@@ -478,7 +504,8 @@
         "name": "Baby Three 'Where's Spring Flower' Plush Series Blind Box",
         "filepath": "flower",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Baby Three",
         "images": [
             "flower_box.jpg"
@@ -497,7 +524,8 @@
         "name": "Baby Three Jewelry Box Series Blind Box",
         "filepath": "jewelry",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Baby Three",
         "images": [
             "jewelry_box.jpg"
@@ -518,7 +546,8 @@
         "name": "Baby Three 'De Lovely' Plush Series Blind Box",
         "filepath": "lovely",
         "quantity": 2,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Baby Three",
         "images": [
             "lovely_box.jpg"
@@ -536,7 +565,8 @@
         "name": "Liila's Garden Tea Party [MINI] Plush Series Blind Box",
         "filepath": "tea",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "random",
         "images": [
             "tea_box.jpg"
@@ -551,7 +581,8 @@
         "name": "Samael Magic Wardrobe Series Plush Dolls Blind Box",
         "filepath": "magic",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "random",
         "images": [
             "magic_box.jpg"
@@ -570,7 +601,8 @@
         "name": "Baby Three 400% V2 Plush Series Blind Box",
         "filepath": "bigBaby",
         "quantity": 1,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "random",
         "images": [
             "bigBaby_box.jpg"
@@ -587,7 +619,8 @@
         "name": "Disney x Miniso Stitch 'Eat Something Before Sleep' Series Vinyl Figure Blind Box",
         "filepath": "stitchSleep",
         "quantity": 0,
-        "price": 50,
+        "sold": 1,
+        "price": 30,
         "brand": "random",
         "images": [
             "stitchSleep_box_sold.jpg"
@@ -604,7 +637,8 @@
         "name": "Naruto Beast Party Plush Keychain Blind Box",
         "filepath": "naruto",
         "quantity": 3,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "TopToy",
         "images": [
             "naruto_box.jpg"
@@ -623,7 +657,8 @@
         "filepath": "labubuLetter",
         "description": "Available: [A, B, B, G, G, I] Sold: [L, S, D]",
         "quantity": 6,
-        "price": 50,
+        "sold": 3,
+        "price": 35,
         "brand": "Pop Mart",
         "images": [
             "labubuLetter_box1.jpg"
@@ -642,7 +677,8 @@
         "filepath": "labubuPendant",
         "description": "[H, M, ?]",
         "quantity": 3,
-        "price": 50,
+        "sold": 0,
+        "price": "--",
         "brand": "Pop Mart",
         "images": [
             "labubuPendant_box1.jpg"
@@ -663,7 +699,8 @@
         "filepath": "labubuLetter",
         "description": "Available: [C, F, S] (Proceeds go to Child and Family Services)",
         "quantity": 3,
-        "price": 50,
+        "sold": 0,
+        "price": 35,
         "brand": "Pop Mart",
         "images": [
             "labubuLetter_box1.jpg"
@@ -674,6 +711,20 @@
             , "labubuLetter_all2.jpg"
             , "labubuLetter_all3.jpg"
             , "labubuLetter_all4.jpg"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "THE MONSTERS Labubu Wacky Mart Series-Vinyl Plush Pendant",
+        "filepath": "wackyLabubu",
+        "quantity": 1,
+        "sold": 0,
+        "price": "--",
+        "brand": "Pop Mart",
+        "images": [
+            "wackyLabubu_box.jpg"
+            , "wackyLabubu_1.jpg"
+            , "wackyLabubu_2.jpg"
         ]
     }
 

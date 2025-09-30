@@ -119,12 +119,12 @@
         "id": 7,
         "name": "Mickey Family Cute Together Keychain Series Figures",
         "filepath": "mickeyFamily",
-        "quantity": 3,
-        "sold": 1,
+        "quantity": 0,
+        "sold": 4,
         "price": 35,
         "brand": "Pop Mart",
         "images": [
-            "mickeyFamily_box.jpg"
+            "mickeyFamily_box_sold.png"
             , "mickeyFamily_mickey.jpg"
             , "mickeyFamily_minnie.jpg"
             , "mickeyFamily_pluto.jpg"

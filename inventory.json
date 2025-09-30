@@ -675,9 +675,9 @@
         "id": 36,
         "name": "THE MONSTERS Pin for Love Series-Letter Pendant Blind Box",
         "filepath": "labubuPendant",
-        "description": "[H, M, ?]",
-        "quantity": 3,
-        "sold": 0,
+        "description": "Available: [M, ?] Sold: [H]",
+        "quantity": 2,
+        "sold": 1,
         "price": "--",
         "brand": "Pop Mart",
         "images": [

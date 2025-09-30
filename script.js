@@ -1,9 +1,10 @@
-// ---------- CONFIG ----------
+// ---------- CONFIG -----------
 const imageBasePath = "images/"; // Establish base path for image
 
 let all_products = [];
 let currentFilter = 'all';
 
+// Get status of stock if quantity - sold units > 0 then still have stock
 function getStockStatus(product) {
     const q = Number(product.quantity) || 0;
     const s = Number(product.sold) || 0;
